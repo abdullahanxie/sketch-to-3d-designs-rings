@@ -1,0 +1,7 @@
+# Core dependencies
+flask>=3.0.0
+flask-cors>=4.0.0
+python-dotenv>=1.0.0
+
+# AI/LLM APIs (all models via OpenRouter)
+openai>=1.0.0
